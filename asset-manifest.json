@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-PUC/static/css/main.80ebcb07.css",
+    "main.js": "/react-PUC/static/js/main.4cb83dfd.js",
+    "static/media/SEGA.woff": "/react-PUC/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-PUC/index.html",
+    "main.80ebcb07.css.map": "/react-PUC/static/css/main.80ebcb07.css.map",
+    "main.4cb83dfd.js.map": "/react-PUC/static/js/main.4cb83dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ebcb07.css",
+    "static/js/main.4cb83dfd.js"
+  ]
+}
